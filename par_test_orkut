@@ -1,0 +1,5 @@
+#!/bin/bash
+make
+./bfs -f com-orkut.ungraph.sg -n16 1 -p 9 > par_out.log
+./cc -f com-orkut.ungraph.sg -n16 1 -p 9 >> par_out.log 
+./pr -f com-orkut.ungraph.sg -n16 1 -p 9 >> par_out.log 

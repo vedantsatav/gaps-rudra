@@ -1,0 +1,659 @@
+f	com-orkut.ungraph.sg
+n	16
+p	9
+is directed 1
+Read Time:           0.12829
+Hey
+Neighbourhood Map Time:2.30610
+HI
+Graph has 3072627 nodes and 35509685 directed edges for degree: 11
+Reordering time from benchmark kernel: 2.36797
+Old Source:            53555
+New Source:           304757
+Source:               304757
+    i                0.00194
+   td        104     0.00001
+   td       1696     0.00004
+   td      20005     0.00020
+   td     197846     0.00130
+    e                0.00064
+   bu     847936     0.01345
+   bu     770476     0.01071
+   bu     350216     0.00702
+   bu     117073     0.00538
+    c                0.00110
+   td      31094     0.00366
+   td       8819     0.00092
+   td       3843     0.00026
+   td       1519     0.00012
+   td        667     0.00005
+   td        459     0.00002
+   td        105     0.00002
+   td        100     0.00001
+   td         79     0.00001
+   td         35     0.00001
+   td         20     0.00001
+   td          7     0.00000
+   td          1     0.00000
+   td          0     0.00000
+Trial Time:          0.04772
+Old Source:           342720
+New Source:            57197
+Source:                57197
+    i                0.00158
+   td         24     0.00000
+   td        172     0.00001
+   td        447     0.00001
+   td       1008     0.00002
+   td       1445     0.00003
+   td       1984     0.00003
+   td       1973     0.00005
+   td       1984     0.00004
+   td       3383     0.00005
+   td       5529     0.00009
+   td       4244     0.00011
+   td       3551     0.00009
+   td       3199     0.00007
+   td       1940     0.00007
+   td       1725     0.00005
+   td       1087     0.00004
+   td        302     0.00002
+   td         80     0.00001
+   td         16     0.00000
+   td          0     0.00000
+Trial Time:          0.00304
+Old Source:           302491
+New Source:            89469
+Source:                89469
+    i                0.00159
+   td         41     0.00000
+   td        236     0.00002
+   td        905     0.00002
+   td       4280     0.00005
+   td      12162     0.00013
+   td      31326     0.00038
+   td      71555     0.00084
+   td     104104     0.00167
+   td     132308     0.00272
+   td     187667     0.00393
+   td     224184     0.00505
+   td     229735     0.00641
+   td     111751     0.00592
+   td      48628     0.00304
+   td      24051     0.00132
+   td      13047     0.00071
+   td       8473     0.00040
+   td       6226     0.00026
+   td       3719     0.00017
+   td       2423     0.00011
+   td       1694     0.00007
+   td        819     0.00009
+   td        359     0.00002
+   td        297     0.00001
+   td        264     0.00002
+   td        123     0.00001
+   td         16     0.00001
+   td          2     0.00000
+   td          0     0.00000
+Trial Time:          0.03620
+Old Source:             3891
+New Source:           351161
+Source:               351161
+    i                0.00174
+   td        352     0.00001
+   td      35299     0.00039
+    e                0.00016
+   bu     788168     0.01844
+   bu    1414907     0.01198
+   bu     538598     0.00540
+   bu     101215     0.00207
+    c                0.00100
+   td      15026     0.00199
+   td       3302     0.00038
+   td       1233     0.00011
+   td        449     0.00006
+   td         87     0.00002
+   td         27     0.00001
+   td         17     0.00000
+   td          9     0.00000
+   td          8     0.00000
+   td         13     0.00000
+   td          1     0.00000
+   td          0     0.00000
+Trial Time:          0.04449
+Old Source:           320031
+New Source:          3032354
+Source:              3032354
+    i                0.00157
+   td          1     0.00000
+   td         10     0.00000
+   td          4     0.00000
+   td          2     0.00000
+   td          0     0.00000
+Trial Time:          0.00232
+Old Source:           214089
+New Source:           161469
+Source:               161469
+    i                0.00155
+   td        105     0.00001
+   td        982     0.00002
+   td       9431     0.00009
+   td      65274     0.00061
+   td     249753     0.00290
+   td     472878     0.00824
+    e                0.00211
+   bu     499823     0.01257
+   bu     278900     0.01001
+   bu      81812     0.00846
+    c                0.00092
+   td      27351     0.00334
+   td      13151     0.00081
+   td       9083     0.00039
+   td       4511     0.00024
+   td       2178     0.00014
+   td        641     0.00006
+   td        297     0.00003
+   td        252     0.00001
+   td         11     0.00001
+   td          0     0.00000
+Trial Time:          0.05368
+Old Source:           353730
+New Source:            47910
+Source:                47910
+    i                0.00163
+   td         63     0.00001
+   td       1296     0.00005
+   td      35678     0.00045
+   td     124501     0.00178
+   td     116593     0.00293
+   td      59721     0.00241
+   td      56670     0.00148
+   td      62893     0.00144
+   td      66143     0.00143
+   td      69319     0.00153
+   td      60153     0.00160
+   td      44642     0.00132
+   td      30156     0.00110
+   td      19199     0.00073
+   td      11967     0.00047
+   td       6841     0.00028
+   td       4127     0.00017
+   td       1568     0.00009
+   td        961     0.00004
+   td        614     0.00003
+   td        302     0.00002
+   td        166     0.00001
+   td         39     0.00001
+   td          0     0.00000
+Trial Time:          0.02210
+Old Source:           315324
+New Source:            78625
+Source:                78625
+    i                0.00159
+   td         22     0.00000
+   td        338     0.00001
+   td       3222     0.00004
+   td      15745     0.00015
+   td      60491     0.00052
+   td     146993     0.00203
+   td     266526     0.00469
+   td     283947     0.00752
+   td     172015     0.00782
+   td     123998     0.00525
+   td      91143     0.00468
+   td      43737     0.01038
+   td      22250     0.00416
+   td       9303     0.00340
+   td       5080     0.00047
+   td       4730     0.00034
+   td       2257     0.00020
+   td        860     0.00010
+   td        152     0.00005
+   td        152     0.00002
+   td         13     0.00001
+   td          3     0.00001
+   td          0     0.00000
+Trial Time:          0.05467
+Old Source:           141635
+New Source:           224498
+Source:               224498
+    i                0.00313
+   td         13     0.00001
+   td         24     0.00000
+   td        923     0.00002
+   td      10472     0.00013
+   td      69539     0.00074
+   td     268775     0.00335
+   td     465895     0.00933
+    e                0.00230
+   bu     462463     0.01428
+   bu     284034     0.01089
+   bu     110293     0.00927
+    c                0.00098
+   td      57069     0.00644
+   td      39291     0.00266
+   td      24282     0.00175
+   td      17612     0.00108
+   td      16683     0.00085
+   td      11943     0.00071
+   td       6168     0.00041
+   td       2496     0.00018
+   td       2013     0.00008
+   td        379     0.00005
+   td        145     0.00002
+   td          0     0.00001
+Trial Time:          0.06962
+Old Source:           205033
+New Source:           169269
+Source:               169269
+    i                0.00161
+   td        129     0.00001
+   td       1066     0.00003
+   td      12038     0.00010
+   td      90782     0.00080
+   td     340073     0.00342
+    e                0.00167
+   bu     505126     0.01484
+   bu     480926     0.01110
+   bu     193983     0.00862
+   bu      58741     0.00815
+    c                0.00077
+   td      37653     0.00430
+   td      27115     0.00169
+   td      20832     0.00101
+   td      16236     0.00067
+   td      17397     0.00052
+   td      11669     0.00045
+   td       5711     0.00030
+   td       2011     0.00018
+   td       1309     0.00007
+   td        995     0.00005
+   td        242     0.00003
+   td          6     0.00001
+   td          1     0.00000
+   td          3     0.00000
+   td          0     0.00000
+Trial Time:          0.06140
+Old Source:           371326
+New Source:            31809
+Source:                31809
+    i                0.00167
+   td         51     0.00001
+   td        232     0.00001
+   td        610     0.00003
+   td       1431     0.00006
+   td       3390     0.00006
+   td       9956     0.00012
+   td      17926     0.00028
+   td      17154     0.00038
+   td      15997     0.00038
+   td      17167     0.00035
+   td      20376     0.00038
+   td      20367     0.00045
+   td      22518     0.00047
+   td      19585     0.00051
+   td      13295     0.00041
+   td       8457     0.00033
+   td       4985     0.00022
+   td       4545     0.00012
+   td       2645     0.00009
+   td       1319     0.00006
+   td        782     0.00003
+   td        544     0.00002
+   td        231     0.00001
+   td        140     0.00001
+   td          0     0.00001
+Trial Time:          0.00741
+Old Source:           138262
+New Source:           227615
+Source:               227615
+    i                0.00158
+   td         84     0.00001
+   td       2044     0.00004
+   td      26713     0.00035
+   td     195178     0.00154
+    e                0.00093
+   bu     631616     0.01549
+   bu     729118     0.01141
+   bu     302512     0.00899
+   bu     105215     0.00742
+    c                0.00104
+   td      39270     0.00502
+   td      13211     0.00106
+   td       5602     0.00037
+   td       2305     0.00017
+   td       1376     0.00007
+   td        591     0.00004
+   td        242     0.00002
+   td        224     0.00002
+   td        123     0.00001
+   td         62     0.00001
+   td         40     0.00001
+   td         29     0.00000
+   td         20     0.00000
+   td          2     0.00000
+   td          3     0.00000
+   td          1     0.00000
+   td          0     0.00000
+Trial Time:          0.05641
+Old Source:           148020
+New Source:           218630
+Source:               218630
+    i                0.00153
+   td         37     0.00000
+   td        675     0.00001
+   td       7967     0.00007
+   td      64417     0.00058
+   td     356411     0.00316
+    e                0.00160
+   bu     691751     0.01409
+   bu     530382     0.01105
+   bu     184321     0.00862
+   bu      60032     0.00773
+    c                0.00095
+   td      26504     0.00377
+   td      20444     0.00151
+   td      15805     0.00095
+   td       9191     0.00081
+   td       5288     0.00046
+   td       3490     0.00029
+   td       2022     0.00024
+   td       1246     0.00009
+   td        966     0.00006
+   td        595     0.00005
+   td        483     0.00004
+   td        270     0.00002
+   td         45     0.00008
+   td         38     0.00001
+   td         12     0.00000
+   td         13     0.00000
+   td          2     0.00000
+   td          0     0.00000
+Trial Time:          0.05880
+Old Source:           201746
+New Source:           172022
+Source:               172022
+    i                0.00153
+   td         29     0.00000
+   td        475     0.00001
+   td       3383     0.00004
+   td      32908     0.00023
+   td     219066     0.00165
+    e                0.00091
+   bu     659950     0.01513
+   bu     553206     0.01238
+   bu     192463     0.00995
+   bu      93896     0.00882
+    c                0.00099
+   td      53024     0.00462
+   td      22716     0.00178
+   td       9499     0.00068
+   td       4556     0.00027
+   td       1660     0.00015
+   td        750     0.00009
+   td        258     0.00003
+   td         62     0.00001
+   td         40     0.00001
+   td          4     0.00000
+   td          0     0.00000
+Trial Time:          0.06019
+Old Source:           272865
+New Source:           112911
+Source:               112911
+    i                0.00155
+   td         29     0.00000
+   td        261     0.00001
+   td       1507     0.00002
+   td       8274     0.00007
+   td      35219     0.00033
+   td     125228     0.00126
+   td     316403     0.00470
+   td     425337     0.00995
+    e                0.00204
+   bu     223599     0.01362
+   bu     118222     0.01176
+    c                0.00096
+   td      65536     0.00580
+   td      37233     0.00217
+   td      25616     0.00142
+   td      44257     0.00187
+   td      19345     0.00102
+   td       6196     0.00051
+   td       2003     0.00016
+   td        936     0.00007
+   td        613     0.00004
+   td        423     0.00002
+   td        176     0.00002
+   td         54     0.00001
+   td          9     0.00000
+   td          8     0.00000
+   td          5     0.00000
+   td          0     0.00000
+Trial Time:          0.06032
+Old Source:            93740
+New Source:           268096
+Source:               268096
+    i                0.00163
+   td         37     0.00000
+   td        966     0.00001
+   td      12558     0.00011
+   td     129532     0.00105
+    e                0.00052
+   bu     641513     0.01562
+   bu     815110     0.01142
+   bu     448503     0.00834
+   bu      92338     0.00618
+    c                0.00106
+   td      33651     0.00307
+   td       7633     0.00087
+   td       2737     0.00026
+   td       1481     0.00010
+   td        686     0.00005
+   td        332     0.00002
+   td         42     0.00001
+   td         17     0.00001
+   td          4     0.00000
+   td          0     0.00000
+Trial Time:          0.05144
+Reordering time: :   2.36797
+Without reorder: Average Time:0.04311
+With reorder: Average Time:0.19111
+f	com-orkut.ungraph.sg
+n	16
+p	9
+is directed 1
+Read Time:           0.12551
+Neighbourhood Map Time:2.22633
+Graph has 3072627 nodes and 35509685 directed edges for degree: 11
+Reordering time from benchmark kernel: 2.28413
+Skipping largest intermediate component (ID: 0, approx. 12% of the graph)
+Trial Time:          0.22947
+Skipping largest intermediate component (ID: 0, approx. 12% of the graph)
+Trial Time:          0.17600
+Skipping largest intermediate component (ID: 0, approx. 12% of the graph)
+Trial Time:          0.19884
+Skipping largest intermediate component (ID: 0, approx. 12% of the graph)
+Trial Time:          0.21656
+Skipping largest intermediate component (ID: 0, approx. 12% of the graph)
+Trial Time:          0.17539
+Skipping largest intermediate component (ID: 0, approx. 12% of the graph)
+Trial Time:          0.17489
+Skipping largest intermediate component (ID: 0, approx. 12% of the graph)
+Trial Time:          0.17503
+Skipping largest intermediate component (ID: 0, approx. 12% of the graph)
+Trial Time:          0.18860
+Skipping largest intermediate component (ID: 0, approx. 12% of the graph)
+Trial Time:          0.17501
+Skipping largest intermediate component (ID: 0, approx. 12% of the graph)
+Trial Time:          0.17528
+Skipping largest intermediate component (ID: 0, approx. 12% of the graph)
+Trial Time:          0.18289
+Skipping largest intermediate component (ID: 0, approx. 12% of the graph)
+Trial Time:          0.18793
+Skipping largest intermediate component (ID: 0, approx. 12% of the graph)
+Trial Time:          0.17533
+Skipping largest intermediate component (ID: 0, approx. 12% of the graph)
+Trial Time:          0.17222
+Skipping largest intermediate component (ID: 0, approx. 12% of the graph)
+Trial Time:          0.17282
+Skipping largest intermediate component (ID: 0, approx. 12% of the graph)
+Trial Time:          0.17230
+Reordering time: :   2.28413
+Without reorder: Average Time:0.18429
+With reorder: Average Time:0.32704
+f	com-orkut.ungraph.sg
+n	16
+p	9
+is directed 1
+Read Time:           0.11585
+Neighbourhood Map Time:2.14850
+Reorder time from PR application: 2.20846
+Graph has 3072627 nodes and 35509685 directed edges for degree: 11
+Reordering time from benchmark kernel: 2.20846
+  0    0.746257
+  1    0.062981
+  2    0.017516
+  3    0.005390
+  4    0.001641
+  5    0.000481
+  6    0.000135
+  7    0.000036
+Trial Time:          0.17538
+  0    0.746257
+  1    0.062981
+  2    0.017516
+  3    0.005390
+  4    0.001641
+  5    0.000481
+  6    0.000135
+  7    0.000036
+Trial Time:          0.17343
+  0    0.746257
+  1    0.062981
+  2    0.017516
+  3    0.005390
+  4    0.001641
+  5    0.000481
+  6    0.000135
+  7    0.000036
+Trial Time:          0.18123
+  0    0.746257
+  1    0.062981
+  2    0.017516
+  3    0.005390
+  4    0.001641
+  5    0.000481
+  6    0.000135
+  7    0.000036
+Trial Time:          0.18390
+  0    0.746257
+  1    0.062981
+  2    0.017516
+  3    0.005390
+  4    0.001641
+  5    0.000481
+  6    0.000135
+  7    0.000036
+Trial Time:          0.18128
+  0    0.746257
+  1    0.062981
+  2    0.017516
+  3    0.005390
+  4    0.001641
+  5    0.000481
+  6    0.000135
+  7    0.000036
+Trial Time:          0.18337
+  0    0.746257
+  1    0.062981
+  2    0.017516
+  3    0.005390
+  4    0.001641
+  5    0.000481
+  6    0.000135
+  7    0.000036
+Trial Time:          0.17830
+  0    0.746257
+  1    0.062981
+  2    0.017516
+  3    0.005390
+  4    0.001641
+  5    0.000481
+  6    0.000135
+  7    0.000036
+Trial Time:          0.18360
+  0    0.746257
+  1    0.062981
+  2    0.017516
+  3    0.005390
+  4    0.001641
+  5    0.000481
+  6    0.000135
+  7    0.000036
+Trial Time:          0.19281
+  0    0.746257
+  1    0.062981
+  2    0.017516
+  3    0.005390
+  4    0.001641
+  5    0.000481
+  6    0.000135
+  7    0.000036
+Trial Time:          0.18080
+  0    0.746257
+  1    0.062981
+  2    0.017516
+  3    0.005390
+  4    0.001641
+  5    0.000481
+  6    0.000135
+  7    0.000036
+Trial Time:          0.19748
+  0    0.746257
+  1    0.062981
+  2    0.017516
+  3    0.005390
+  4    0.001641
+  5    0.000481
+  6    0.000135
+  7    0.000036
+Trial Time:          0.17948
+  0    0.746257
+  1    0.062981
+  2    0.017516
+  3    0.005390
+  4    0.001641
+  5    0.000481
+  6    0.000135
+  7    0.000036
+Trial Time:          0.17367
+  0    0.746257
+  1    0.062981
+  2    0.017516
+  3    0.005390
+  4    0.001641
+  5    0.000481
+  6    0.000135
+  7    0.000036
+Trial Time:          0.17242
+  0    0.746257
+  1    0.062981
+  2    0.017516
+  3    0.005390
+  4    0.001641
+  5    0.000481
+  6    0.000135
+  7    0.000036
+Trial Time:          0.18658
+  0    0.746257
+  1    0.062981
+  2    0.017516
+  3    0.005390
+  4    0.001641
+  5    0.000481
+  6    0.000135
+  7    0.000036
+Trial Time:          0.17344
+Reordering time: :   2.20846
+Without reorder: Average Time:0.18107
+With reorder: Average Time:0.31910

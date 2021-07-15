@@ -1,0 +1,21 @@
+#!/bin/bash
+make
+./bfs -f com-orkut.ungraph.sg -n16 1 -p 0 > out.log
+./bfs -f com-orkut.ungraph.sg -n16 1 -p 1 >> out.log
+./bfs -f com-orkut.ungraph.sg -n16 1 -p 2 >> out.log
+./bfs -f com-orkut.ungraph.sg -n16 1 -p 7 >> out.log
+./bfs -f com-orkut.ungraph.sg -n16 1 -p 8 >> out.log
+./bfs -f com-orkut.ungraph.sg -n16 1 -p 9 >> out.log
+./cc -f com-orkut.ungraph.sg -n16 1 -p 0 >> out.log
+./cc -f com-orkut.ungraph.sg -n16 1 -p 1 >> out.log
+./cc -f com-orkut.ungraph.sg -n16 1 -p 2 >> out.log
+./cc -f com-orkut.ungraph.sg -n16 1 -p 7 >> out.log
+./cc -f com-orkut.ungraph.sg -n16 1 -p 8 >> out.log
+./cc -f com-orkut.ungraph.sg -n16 1 -p 9 >> out.log
+./pr -f com-orkut.ungraph.sg -n16 1 -p 0 >> out.log
+./pr -f com-orkut.ungraph.sg -n16 1 -p 1 >> out.log
+./pr -f com-orkut.ungraph.sg -n16 1 -p 2 >> out.log
+./pr -f com-orkut.ungraph.sg -n16 1 -p 7 >> out.log
+./pr -f com-orkut.ungraph.sg -n16 1 -p 8 >> out.log
+./pr -f com-orkut.ungraph.sg -n16 1 -p 9 >> out.log
+
